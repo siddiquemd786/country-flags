@@ -1,0 +1,12 @@
+/* src/App.css */
+#root {
+ 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+ ;
+}
+
+
+
