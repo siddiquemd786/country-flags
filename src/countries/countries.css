@@ -1,0 +1,5 @@
+/* src/countries/countries.css */
+.countries{
+    display: flex;
+    flex-wrap: wrap;
+}

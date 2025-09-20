@@ -1,5 +1,12 @@
+/* src/country/Country.css */
 
 .flags{
-    width: 250px;
-    height: 250px;
+    border: 2px solid saddlebrown;
+    margin: 20px;
+    padding: 20px;
+    width: 350px;
+}
+
+.country-visited{
+    background-color: rgba(162, 116, 8, 0.899);
 }
